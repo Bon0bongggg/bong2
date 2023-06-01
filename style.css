@@ -1,0 +1,37 @@
+main {
+    overflow:auto;
+    }
+    nav {
+        height:1em;
+        line-height:1em;
+        margin:20px 0px;
+    }
+    header {
+        border-style:dotted;
+        text-align: center;
+        text-transform: uppercase;
+        background:#0066FF;
+        
+    }
+
+    header, nav {
+        border-style:dotted;
+        }
+        
+    article {
+        float:left;
+        width:75%;
+        border-style:dotted;
+    }
+    aside{
+        float:right;
+        width:20%;
+        border-style:dotted;
+    }
+    footer {
+        clear:both;
+        border-style:dotted;
+        margin-top: 20px;
+    }
+
+    
